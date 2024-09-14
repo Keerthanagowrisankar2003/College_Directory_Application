@@ -1,0 +1,17 @@
+com\example\collegedirectory\entity\Department.class
+com\example\collegedirectory\service\StudentService.class
+com\example\collegedirectory\util\JwtRequestFilter.class
+com\example\collegedirectory\entity\User.class
+com\example\collegedirectory\entity\FacultyProfile.class
+com\example\collegedirectory\controller\UserController.class
+com\example\collegedirectory\service\UserService.class
+com\example\collegedirectory\CollegeDirectoryApplication.class
+com\example\collegedirectory\config\SecurityConfig.class
+com\example\collegedirectory\repository\StudentProfileRepository.class
+com\example\collegedirectory\entity\Enrollment.class
+com\example\collegedirectory\controller\StudentController.class
+com\example\collegedirectory\entity\Course.class
+com\example\collegedirectory\repository\UserRepository.class
+com\example\collegedirectory\util\JwtUtil.class
+com\example\collegedirectory\entity\StudentProfile.class
+com\example\collegedirectory\entity\User$Role.class
